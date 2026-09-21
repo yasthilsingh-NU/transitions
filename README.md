@@ -1,32 +1,10 @@
-# transitions
-
-# harp
+# HARP - Transitions
 
 ### Summary of HARP
 
-There is a scientific consensus emerging that developmental exposures to social adversity can promote drug use vulnerabilities through cumulative effects on neurobiological and peripheral systems.
+The HARP Project is an NIH-funded P50 Center grant in collaboration with the Center for Family Research at the University of Georgia. It is designed to transform scientific understanding regarding the causes and prevention of addictive behaviors by investigating (a) the biological and neurocognitive contributors to addictive behaviors that drive many drug use and health disparities African Americans’ experience and (b) the potential of family-centered prevention programming to ameliorate the influence of growing up in chronically stressful contexts. Our neuroimmune network (NIN) model specifies stress-induced alterations in the transactions between peripheral inflammation and neurocognitive systems that subserve emotion regulation in the development of addictive behavior vulnerability. RP1 (Transitions) provides an in-depth assessment on neural activity and inflammation and comprises a “deep dive” into mechanistic hypotheses suggested by the NIN model through a two-wave study spanning 2.5 years of African American emerging adults, ages 18-20 at baseline. 
 
-The Health and Resilience Project (HARP) is an NIH-funded P50 Center research program that aims to investigate how chronic stress exposure, experienced through social adversity, affects the biological and psychological development of children and young adults. HARP aims at investigating how this toll manifests in escalating rates of addictive behavior, including drug use and unhealthy eating.
-
-The African American populations on whom the P50 Center and Research Project 2 (RP2) focus are disproportionately exposed to such social adversities. The proposed P50 continues and expands the pioneering work of the Center for Translational and Prevention Science (CTAPS) through two avenues:
-
-    (a) Biological and Neurobiological - Investigating the biological and neurobiological contributors to addictive behaviors that drive many drug use and health disparities African Americans experience.
-
-    Here we ask: How does chronic stress get under the skin to heighten vulnerability to addictive behaviors, including drug use and unhealthy eating, and the cardiometabolic health conditions that such behaviors generate? To begin to address this question, CTAPS scientists proposed a neuroimmune network (NIN) model highlighting bidirectional signaling between the brain and immune system in the pathophysiology of addictive behaviors.
-
-    (b) Family-centered Prevention Programming - Conducting studies that illuminate the potential of family-centered prevention programming to ameliorate the pernicious and persistent influence of growing up in chronically stressful contexts.
-
-
-The mechanisms and processes investigated in the P50 are not limited to African American populations; we expect them to have broad applicability in furthering scientific understanding of the etiology and prevention of addictive behavior among other US populations exposed to chronic stress.
-
-
-### HARP Research Projects
-
-To address these objectives, HARP comprises two complementary research projects:
-
-**TRANSITIONS (RP1) — Emerging Adulthood (Ages 18–20 at baseline):** Examines how chronic stress exposure influences neuroimmune functioning and vulnerability to addictive behaviors during the transition to adulthood, with a focus on the biological pathways linking social adversity to adverse health outcomes.
-
-**FOUNDATIONS (RP2) — Childhood and Early Adolescence (Age 11 at baseline):** Investigates how chronic stress exposure affects neuroimmune development and whether family-centered prevention programming can mitigate these effects and reduce vulnerability to addictive behaviors.
+Data collection includes bioimaging of NIN-related neural systems, assay of peripheral inflammation, and measures of stress exposure and addictive behaviors. RP2 (Foundations) conducts a pioneering longitudinal, two-year experimental trial that includes baseline and follow-up assessments with fMRI, inflammatory, and behavioral data with 300 African American youth at age 11 and their primary caregivers. This study will be able to examine empirically the underlying biological mechanisms for the multi-level benefits of family-centered prevention programming. You can learn more about the projects here.
 
 ## TRANSITIONS: Neuroimaging Data Processing Workflow
 
